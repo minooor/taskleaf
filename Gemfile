@@ -59,4 +59,5 @@ gem 'slim-rails'
 gem 'html2slim'
 gem 'rails_autolink'
 gem 'ransack'
+gem 'kaminari'
 
